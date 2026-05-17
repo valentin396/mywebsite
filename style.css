@@ -77,3 +77,8 @@ footer{
     color: white;
     padding: 15px;
 }
+.social-icon{
+    width: 25px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
